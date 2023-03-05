@@ -1,0 +1,12 @@
+body {
+    background-color: darkgoldenrod;
+}
+div.a {
+    text-align: left;
+}
+div.b {
+    text-align: center;
+}
+div.c {
+    text-align: right;
+}

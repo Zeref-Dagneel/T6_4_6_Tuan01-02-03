@@ -1,0 +1,17 @@
+form{
+    background-color: antiquewhite;
+}
+p{
+    margin: 1%;
+}
+textarea{
+    text-align: left;
+}
+div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.btn1{
+    margin: 10px;
+}
